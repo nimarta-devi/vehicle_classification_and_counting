@@ -12,4 +12,5 @@
 ## Output Screenshots
 
 ![Screenshot](https://github.com/nimarta-devi/vehicle_classification_and_counting/blob/master/Sample%20Output/output1.png)
+<br>
 ![Screenshot](https://github.com/nimarta-devi/vehicle_classification_and_counting/blob/master/Sample%20Output/output2.png)
