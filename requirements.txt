@@ -1,0 +1,5 @@
+tkinter
+urllib3
+Pillow
+numpy
+opencv-python
